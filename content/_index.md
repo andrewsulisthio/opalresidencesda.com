@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: Beranda - Website Rukun Tetangga OPAL Residence
+description: Website resmi Rukun Tetangga OPAL Residence, Sidoarjo 61256
 ---
 
 {{< article link="/links/panduan-harmonis-warga-opal/" >}}
