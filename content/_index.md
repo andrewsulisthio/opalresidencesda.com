@@ -2,6 +2,12 @@
 title: Beranda - Website Rukun Tetangga OPAL Residence
 description: Website resmi Rukun Tetangga OPAL Residence, Sidoarjo 61256
 ---
+{{< badge >}}
+⭐ Konten baru!
+{{< /badge >}}
+{{< article link="/forms/kehadiran-warga-opal-24-maret-2024/" >}}
+
+---
 
 {{< article link="/links/panduan-harmonis-warga-opal/" >}}
 {{< article link="/links/kas-opal/" >}}
