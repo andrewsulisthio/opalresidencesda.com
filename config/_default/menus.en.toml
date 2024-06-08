@@ -26,11 +26,6 @@ pageRef = "documents"
 weight  = 3
 
 [[main]]
-name    = "Tentang"
-pageRef = "about"
-weight  = 3
-
-[[main]]
 name    = "Tautan"
 pageRef = "links"
 weight  = 4
