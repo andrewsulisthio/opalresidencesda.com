@@ -1,0 +1,82 @@
+backend:
+    name: github
+    repo: andrewsulisthio/opalresidencesda.com
+    branch: content-update
+
+media_folder: ""
+public_folder: ""
+
+collections:
+    - name: "news"
+      label: "Berita"
+      folder: "content/news"
+      path: "{{slug}}/index"
+      create: true
+      fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - {
+                label: "featured.jpg or featured.png",
+                name: "featuredImage",
+                widget: "image",
+                default: "featured.jpg",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+    - name: "documents"
+      label: "Dokumen"
+      folder: "content/documents"
+      path: "{{slug}}/index"
+      create: true
+      fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - {
+                label: "featured.jpg or featured.png",
+                name: "featuredImage",
+                widget: "image",
+                default: "featured.jpg",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+    - name: "about"
+      label: "Tentang"
+      files:
+          - label: "Halaman Tentang"
+            name: "about-page"
+            file: "content/_index.md"
+            fields:
+                - { label: "Title", name: "title", widget: "string" }
+                - { label: "Publish Date", name: "date", widget: "datetime" }
+                - {
+                      label: "featured.jpg or featured.png",
+                      name: "featuredImage",
+                      widget: "image",
+                      default: "featured.jpg",
+                  }
+                - { label: "Body", name: "body", widget: "markdown" }
+      path: "{{slug}}/index"
+      create: true
+      fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - {
+                label: "featured.jpg or featured.png",
+                name: "featuredImage",
+                widget: "image",
+                default: "featured.jpg",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+    - name: "links"
+      label: "Tautan"
+      folder: "content/links"
+      path: "{{slug}}/index"
+      create: true
+      fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - {
+                label: "featured.jpg or featured.png",
+                name: "featuredImage",
+                widget: "image",
+                default: "featured.jpg",
+            }
+          - { label: "External URL", name: "externalURL", widget: "string" }
