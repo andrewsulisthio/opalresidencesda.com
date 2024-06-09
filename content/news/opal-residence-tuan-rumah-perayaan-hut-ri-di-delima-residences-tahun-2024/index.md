@@ -18,7 +18,7 @@ Konsep acara "Merdeka in Mozaic" beserta identitas visualnya sendiri diciptakan 
 
 ## Panitia "Merdeka in Mozaic" Telah Memulai Persiapan
 
-![Highlight](highlight.gif)
+![Highlight](/opal-residence-tuan-rumah-perayaan-hut-ri-di-delima-residences-tahun-2024.gif)
 
 Menandai dimulainya aktivitas resmi kepanitiaan, rapat perdana telah dilaksanakan pada tanggal 7 Juni 2024. Rapat tersebut membahas rencana dan pembagian tugas untuk penyelenggaraan acara "Merdeka in Mozaic".
 
