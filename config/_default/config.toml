@@ -2,18 +2,20 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish"
-baseURL = "https://opalresidencesda.com/"
+baseURL                = "https://opalresidencesda.com/"
 defaultContentLanguage = "en"
+theme                  = "blowfish"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
-summaryLength = 0
+paginate        = 10
+summaryLength   = 0
 
 buildDrafts = false
 buildFuture = false
+
+timeout = "60s"
 
 # googleAnalytics = "G-XXXXXXXXX"
 
@@ -21,45 +23,45 @@ buildFuture = false
 anchor = 'Center'
 
 [taxonomies]
-tag = "tags"
+author   = "authors"
 category = "categories"
-author = "authors"
-series = "series"
+series   = "series"
+tag      = "tags"
 
 [sitemap]
 changefreq = 'daily'
-filename = 'sitemap.xml'
-priority = 0.5
+filename   = 'sitemap.xml'
+priority   = 0.5
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = [ "HTML", "JSON", "RSS" ]
 
 [related]
 threshold = 0
-toLower = false
+toLower   = false
 
 [[related.indices]]
-name = "tags"
+name   = "tags"
 weight = 100
 
 [[related.indices]]
-name = "categories"
+name   = "categories"
 weight = 100
 
 [[related.indices]]
-name = "series"
+name   = "series"
 weight = 50
 
 [[related.indices]]
-name = "authors"
+name   = "authors"
 weight = 20
 
 [[related.indices]]
-name = "date"
+name   = "date"
 weight = 10
 
 [[related.indices]]
 applyFilter = false
-name = 'fragmentrefs'
-type = 'fragments'
-weight = 10
+name        = 'fragmentrefs'
+type        = 'fragments'
+weight      = 10

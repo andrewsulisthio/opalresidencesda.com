@@ -18,6 +18,8 @@ Konsep acara "Merdeka in Mozaic" beserta identitas visualnya sendiri diciptakan 
 
 ## Panitia "Merdeka in Mozaic" Telah Memulai Persiapan
 
+![Highlight](highlight.gif)
+
 Menandai dimulainya aktivitas resmi kepanitiaan, rapat perdana telah dilaksanakan pada tanggal 7 Juni 2024. Rapat tersebut membahas rencana dan pembagian tugas untuk penyelenggaraan acara "Merdeka in Mozaic".
 
 Selain Bapak Evan, beberapa warga Opal Residence lainnya turut bergabung dalam kepanitiaan acara ini. Mereka adalah Bapak Aris dari Gang 1, Ibu Vera dari Gang 1, Bapak Andrew dari Gang 2, dan Ibu Vivi dari Gang 2. Kami tentunya menyambut baik partisipasi aktif dari warga lainnya yang ingin bergabung dalam kepanitiaan "Merdeka in Mozaic".
