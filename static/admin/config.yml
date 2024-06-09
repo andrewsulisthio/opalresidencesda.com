@@ -2,6 +2,7 @@ backend:
     name: github
     repo: andrewsulisthio/opalresidencesda.com
     branch: content-update
+    base_url: https://opalresidencesda.com
 
 media_folder: ""
 public_folder: ""
