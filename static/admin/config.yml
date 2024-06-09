@@ -2,6 +2,9 @@ backend:
     name: github
     repo: andrewsulisthio/opalresidencesda.com
     branch: content-update
+    site_domain: opalresidencesda.com
+    base_url: opalresidencesda.com
+    auth_endpoint: /api/auth
 
 media_folder: ""
 public_folder: ""
