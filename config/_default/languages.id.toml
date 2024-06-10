@@ -1,0 +1,21 @@
+languageCode = "id"
+languageName = "Indonesian"
+title        = "Delima Residences"
+weight       = 1
+
+[params]
+copyright     = "💖 By **[Andrew](https://andrewsulisthio.com)** OP 2/68"
+dateFormat    = "2 January 2006"
+description   = "My awesaome website"
+displayName   = "ID"
+isoCode       = "id"
+logo          = "img/logo.png"
+rtl           = false
+secondaryLogo = ""
+
+[author]
+bio      = "A little bit about you"
+headline = "Jl. Delima Selatan, Sidoarjo, 61256"
+image    = "img/icon.png"
+links    = [  ]
+name     = "Rukun Tetangga OPAL"
