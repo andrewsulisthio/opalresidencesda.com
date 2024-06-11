@@ -28,10 +28,10 @@ layout = "basic"
 
 [footer]
 showAppearanceSwitcher = true
-showCopyright          = true
+showCopyright          = false
 showMenu               = true
 showScrollToTop        = true
-showThemeAttribution   = true
+showThemeAttribution   = false
 
 [homepage]
 cardView             = false
