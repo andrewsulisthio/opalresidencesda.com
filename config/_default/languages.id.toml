@@ -1,0 +1,21 @@
+languageCode = "id"
+languageName = "Indonesian"
+title        = "Opal Residence, Sidoarjo 61256"
+weight       = 1
+
+[params]
+copyright     = "Kontribusi di **[GitHub](https://github.com/andrewsulisthio/opalresidencesda.com)**"
+dateFormat    = "2 January 2006"
+description   = "My awesaome website"
+displayName   = "ID"
+isoCode       = "id"
+logo          = "img/logo.png"
+rtl           = false
+secondaryLogo = ""
+
+[author]
+bio      = "A little bit about you"
+headline = "Jl. Delima Selatan, Sidoarjo, 61256"
+image    = "img/icon.png"
+links    = [  ]
+name     = "Rukun Tetangga OPAL"
