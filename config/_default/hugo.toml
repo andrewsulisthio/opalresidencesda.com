@@ -12,7 +12,6 @@ canonifyURLs                         = false
 capitalizeListTitles                 = true
 cleanDestinationDir                  = false
 contentDir                           = "content"
-copyright                            = ""
 dataDir                              = "data"
 defaultContentLanguage               = "id"
 defaultContentLanguageInSubdir       = false
