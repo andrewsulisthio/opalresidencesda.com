@@ -35,4 +35,4 @@ Mari kita tunjukkan rasa cinta tanah air dengan mengibarkan bendera merah putih 
 
 **Opal Residence**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDPV5ii4Pu5CPEadWaIXFjRlqCgUcp4p33cEm3NdwLdXxIkQ/viewform?embedded=true" width="640" height="1154" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Formulir registrasi pendaftaran sudah ditutup, terima kasih Dear Warga!
